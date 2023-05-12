@@ -30,7 +30,7 @@ const months = [
   "Dec",
 ];
 
-const API_KEY = "f806e326215f6368dcfdd3d356da39c6";
+const API_KEY = "";
 
 setInterval(() => {
   const time = new Date();
