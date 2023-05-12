@@ -24,7 +24,7 @@ Welcome to my weather app project! This app uses the OpenWeathermap API to displ
 
 ## API Key
 
-This app uses the OpenWeathermap API to fetch current weather information. You will need to obtain an API key from [OpenWeathermap](https://openweathermap.org/) and replace the placeholder text in the `app.js` file with your own API key.
+This app uses the OpenWeathermap API to fetch current weather information. You will need to obtain an API key from [OpenWeathermap](https://openweathermap.org/) and replace the placeholder text in the `script.js` file with your own API key.
 
 ```javascript
-const apiKey = 'YOUR_API_KEY_HERE';
+const API_KEY = 'YOUR_API_KEY_HERE';
