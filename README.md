@@ -1,12 +1,12 @@
 # Weather App
 
-Welcome to my weather app project! This app uses the OpenWeathermap API to display current weather information for a user's location. 
+Welcome to my weather app project! This app uses the OpenWeatherMap API to display current weather information for a user's location. 
 
 ## Features
 
 - Simple, clean design
 - Responsive layout (1440px - 375px)
-- Uses the OpenWeathermap API to display current weather information
+- Uses the OpenWeatherMap API to display current weather information
 - Displays temperature, weather condition, and location
 
 ## Technologies Used
@@ -14,7 +14,7 @@ Welcome to my weather app project! This app uses the OpenWeathermap API to displ
 - HTML
 - CSS
 - JavaScript
-- OpenWeathermap API
+- OpenWeatherMap API
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Welcome to my weather app project! This app uses the OpenWeathermap API to displ
 
 ## API Key
 
-This app uses the OpenWeathermap API to fetch current weather information. You will need to obtain an API key from [OpenWeathermap](https://openweathermap.org/) and replace the placeholder text in the `script.js` file with your own API key.
+This app uses the OpenWeatherMap API to fetch current weather information. You will need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and replace the placeholder text in the `script.js` file with your own API key.
 
 ```javascript
 const API_KEY = 'YOUR_API_KEY_HERE';
