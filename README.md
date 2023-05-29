@@ -22,6 +22,8 @@ Welcome to my weather app project! This app uses the OpenWeatherMap API to displ
 
 - To modify the app, you can edit the HTML, CSS, and JavaScript files as needed.
 
+- Please feel free to access my hosted website at [**Weather App**](https://weather-forecast-weekly.netlify.app/) 🔗 to view my work and learn more about my skills and experience.
+
 ## API Key
 
 This app uses the OpenWeatherMap API to fetch current weather information. You will need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and replace the placeholder text in the `script.js` file with your own API key.
